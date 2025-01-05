@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('Website is loaded and ready!');
+    console.log('Welcome to my GitHub-hosted website!');
 });
